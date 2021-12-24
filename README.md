@@ -28,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bechir-karmeni&show_icons=true&locale=en" alt="bechir-karmeni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bechir-karmeni&" alt="bechir-karmeni" /></p>
+
+
+
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31fgug33tk5bndt6wb5t5wgei2km&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31fgug33tk5bndt6wb5t5wgei2km&cover_image=true&theme=default&bar_color_cover=true)]]
