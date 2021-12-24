@@ -148,6 +148,14 @@
 <br/>  
 
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Bechir-karmeni&&style=flat-square)  
+  
+
+<br/>  
+
+
 
 
 
