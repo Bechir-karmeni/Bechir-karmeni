@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+ 
 
 ### <div align="center">I'm Bechir, a  full-stack freelance developer 👨‍💻  </div>  
   
@@ -140,7 +140,7 @@
  
  <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31fgug33tk5bndt6wb5t5wgei2km&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31fgug33tk5bndt6wb5t5wgei2km&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8tr7wvpd3j1vhv4cmvrp6xxlu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/> 
 
